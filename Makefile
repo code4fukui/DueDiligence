@@ -11,7 +11,7 @@ all : 0目次.md docs/index.html
 	pandoc -s --toc --toc-depth=2 --template=toc_template -o $@ $^
 
 docs/index.html : $(SOURCE)
-	pandoc -s --toc --toc-depth=2 -o $@ $^
+	pandoc -s --toc --toc-depth=2 --metadata title="知的財産デュー・デリジェンス標準手順書及び解説" -o $@ $^
 
 clean :
 	rm 0目次.md
