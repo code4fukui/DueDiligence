@@ -1,6 +1,10 @@
-# 知的財産デューデリジェンス標準手順書 オープン検証
+# 知的財産デューデリジェンス標準手順書
 
-## 平成29年度特許庁受託事業
+平成29年度GitHubにてオープン検証された成果物「[知的財産デューデリジェンス標準手順書](https://github.com/SKIPDD/DueDiligence)」を[Code for Fukui](https://code4fukui.github.io/)で、改善して公開しました。
+
+[知的財産デュー・デリジェンス標準手順書及び解説](https://code4fukui.github.io/DueDiligence/)
+
+## 平成29年度特許庁受託事業 オープン検証
 
 ### 運営事務局:NTTデータ経営研究所
 
@@ -11,6 +15,7 @@
 当リポジトリの内容をフォークして頂き編集・活用して頂くことは引き続き可能です。
 
 特許庁HPでもダウンロードできます。
+
 [知的財産デュー・デリジェンス標準手順書及び解説](https://www.jpo.go.jp/support/startup/document/index/2017_06_kaisetsu.pdf)
 
 ## 検証期間 2017年11月21日～12月28日
