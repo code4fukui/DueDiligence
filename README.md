@@ -1,8 +1,17 @@
 # 知的財産デューデリジェンス標準手順書
 
-平成29年度GitHubにてオープン検証された成果物「[知的財産デューデリジェンス標準手順書](https://github.com/SKIPDD/DueDiligence)」を[Code for Fukui](https://code4fukui.github.io/)で、改善して公開しました。
+## forked by Code for Fukui
+
+平成29年度GitHubにてオープン検証された成果物「[知的財産デューデリジェンス標準手順書](https://github.com/SKIPDD/DueDiligence)」を[Code for Fukui](https://code4fukui.github.io/)で、文書構造を改善して公開しています。
+Issue、プルリクも受け付けます。
+
+### 全文(HTML)
 
 [知的財産デュー・デリジェンス標準手順書及び解説](https://code4fukui.github.io/DueDiligence/)
+
+### 全文(Markdown)
+
+[知的財産デュー・デリジェンス標準手順書及び解説](index.md)
 
 ## 平成29年度特許庁受託事業 オープン検証
 
@@ -18,9 +27,9 @@
 
 [知的財産デュー・デリジェンス標準手順書及び解説](https://www.jpo.go.jp/support/startup/document/index/2017_06_kaisetsu.pdf)
 
-## 検証期間 2017年11月21日～12月28日
+### 検証期間 2017年11月21日～12月28日
 
-### <標準手順書構成>
+## <標準手順書構成>
 
 1. [対象会社における価値源泉となる技術、ブランド、デザイン、コンテンツ、ノウハウ、営業秘密等（以下「技術等」）の分析・特定](1対象会社における価値源泉となる技術等の分析・特定.md)
 2. [対象技術等毎の、対象会社における利用可能性・利用可能範囲の調査](2対象技術等毎の、対象会社における利用可能性・利用可能範囲の調査.md)
@@ -28,3 +37,10 @@
 4. [第三者の権利を侵害するリスクの調査（いわゆるFTO調査）](4第三者の権利を侵害するリスクの調査（FTO調査）.md)
 5. [ガバナンス調査](5ガバナンス調査.md)
 6. [価値評価](6価値評価.md)
+
+## 手順書作成手順
+
+```bash
+brew install pandoc make
+make
+```
