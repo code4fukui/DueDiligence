@@ -5,8 +5,8 @@
 平成29年度GitHubにてオープン検証された成果物「[知的財産デューデリジェンス標準手順書](https://github.com/SKIPDD/DueDiligence)」を[Code for Fukui](https://code4fukui.github.io/)で、文書構造を改善して公開しています。
 Issue、プルリクも受け付けます。（[プルリク方法を解説したマニュアル](マニュアル.pdf)）
 
-- [知的財産デューデリジェンスに関する標準手順書(PDF)](知的財産デューデリジェンスに関する標準手順書.pdf)
 - [知的財産デューデリジェンス標準手順書及び解説(HTML)](https://code4fukui.github.io/DueDiligence/) ([Markdown](index.md))
+- 参考、[デューデリジェンス総論(PDF)](知的財産デューデリジェンスに関する標準手順書.pdf)
 
 ## 平成29年度特許庁受託事業 オープン検証
 

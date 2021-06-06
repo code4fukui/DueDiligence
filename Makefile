@@ -15,10 +15,10 @@ all: 0目次.md index.html index.md
 	pandoc -s --toc --toc-depth=$(TOC_DEPTH) --template=toc_template -o $@ $^
 
 index.html: $(SOURCE)
-	pandoc -s --toc --toc-depth=$(TOC_DEPTH_TOP) --metadata title="知的財産デュー・デリジェンス標準手順書及び解説" -o $@ 0目次.md $^ credit.md
+	pandoc -s --toc --toc-depth=$(TOC_DEPTH_TOP) --metadata title="知的財産デューデリジェンス標準手順書" -o $@ 0目次.md $^ credit.md
 
 index.md: $(SOURCE)
-	pandoc -s --toc --toc-depth=$(TOC_DEPTH_TOP) --metadata title="知的財産デュー・デリジェンス標準手順書及び解説" -o $@ 0目次.md $^ credit.md
+	pandoc -s --toc --toc-depth=$(TOC_DEPTH_TOP) --metadata title="知的財産デューデリジェンス標準手順書" -o $@ 0目次.md $^ credit.md
 
 clean:
 	rm 0目次.md
