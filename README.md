@@ -1,5 +1,7 @@
 # DueDiligence
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This is a standard procedure manual for intellectual property due diligence, forked by Code for Fukui from the original open-source project.
 
 ## Features
