@@ -27,4 +27,4 @@ make
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+MIT License — see [LICENSE](LICENSE).
